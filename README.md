@@ -6,6 +6,7 @@ OpenCV Haar cascades were used to detect faces and eyes in the images. This help
 
 The heatmap below shows the results of Logistic Regression on the test data, with an accuracy of 95% on test images. 
 
+![image](https://github.com/user-attachments/assets/82917bdf-8843-40f3-b4fe-5deb98ee2de2)
 
 
 
